@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plot on COVID-19-Cases-in-Toronto-in-different-Age-group</title>
+    <link>/tags/plot/</link>
+    <description>Recent content in plot on COVID-19-Cases-in-Toronto-in-different-Age-group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2020 21:13:14 -0500</lastBuildDate><atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COVID-19-Cases-in-Toronto-in-different-Age-group</title>
+      <link>/2020/09/25/covid-19-cases-in-toronto-in-different-age-group/</link>
+      <pubDate>Fri, 25 Sep 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/2020/09/25/covid-19-cases-in-toronto-in-different-age-group/</guid>
+      <description>Part 1. Abstraction we use Health (2020) After the COVID-19 outbreak happened, does everything fit with the current pathology? We need to find if there is any phenomenon that against pathology and we need to figure out why by analyze the data set which collected by Toronto Public Health.
+ Part 2. Author Introduction Name: Bowen Han
+## ## Attaching package: &amp;#39;dplyr&amp;#39; ## The following objects are masked from &amp;#39;package:stats&amp;#39;: ## ## filter, lag ## The following objects are masked from &amp;#39;package:base&amp;#39;: ## ## intersect, setdiff, setequal, union ## ── Attaching packages ─────────────────────────────────────────────────────────────────────────────────────── tidyverse 1.</description>
+    </item>
+    
+  </channel>
+</rss>
